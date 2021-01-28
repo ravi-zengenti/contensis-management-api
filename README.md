@@ -62,7 +62,7 @@ const client = Client.create({
   clientDetails: {
     clientId: '6f8cf1e8-b2ee-49ad-9b94-2dbb09871903',
     clientSecret: '6d80c9a356ce4317bd71d92c5734d67a-4a837b1336344f63b1b24ce2dfa73945-ef09daa8d0f74b1e8e223779c392a67b'
-  }
+  },
   projectId: 'website',
   rootUrl: 'https://cms-example.cloud.contensis.com'
 });
